@@ -1,4 +1,4 @@
-# Data-processing-Data cleaning on housinf data set.
+# Data-processing-Data cleaning on  Nashville housing data set.
 
 Data cleaning :Data cleaning is the process of cleaning data by removing unnecessary and data irrevelant to rest of data ,finding missing removing or if possible filling  with most appropriate values,formatting the data to improve uniformity to get reliable data which will be used to get acurate results whilr analysing and visualizing.
 
